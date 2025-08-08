@@ -1,0 +1,58 @@
+[
+  {
+    "key": "FREE-TRIAL",
+    "version": "free",
+    "features": ["pdf", "json"],
+    "limitations": {
+      "pdfCount": 3
+    },
+    "expireDate": "2025-08-31"
+  },
+   {
+    "key": "FREE-TRIAL-1",
+    "version": "free",
+    "features": ["pdf", "json"],
+    "limitations": {
+      "pdfCount": 3
+    },
+    "expireDate": "2025-08-31"
+  },
+  {
+    "key": "BASIC-456",
+    "version": "basic",
+    "features": ["pdf", "json", "pdfTheme", "autoQuoteNumber"],
+    "limitations": {
+      "pdfThemeCount": 1
+    },
+    "expireDate": "2025-08-31"
+  },
+  {
+    "key": "PRO-789",
+    "version": "pro",
+    "features": ["pdf", "json", "logo", "pdfTheme", "autoQuoteNumber", "archiveManagement", "reporting", "onlineLicense", "pdfSignature", "oldQuotesList"],
+    "limitations": {
+      "pdfThemeCount": 5
+    },
+    "expireDate": "2025-12-31"
+  },
+  {
+    "key": "PREMIUM-999",
+    "version": "premium",
+    "features": ["pdf", "json", "logo", "pdfTheme", "autoQuoteNumber", "archiveManagement", "reporting", "onlineLicense", "pdfSignature", "oldQuotesList", "autoBackup", "crm", "taskCalendar", "workSchedule"],
+    "limitations": {
+      "pdfThemeCount": "unlimited"
+    },
+    "expireDate": "2025-12-31"
+  },
+
+  {
+    "key": "PREMIUM-1",
+    "version": "premium",
+    "features": ["pdf", "json", "logo", "pdfTheme", "autoQuoteNumber", "archiveManagement", "reporting", "onlineLicense", "pdfSignature", "oldQuotesList", "autoBackup", "crm", "taskCalendar", "workSchedule"],
+    "limitations": {
+      "pdfThemeCount": "unlimited"
+    },
+    "expireDate": "2025-12-31"
+  }
+]
+
