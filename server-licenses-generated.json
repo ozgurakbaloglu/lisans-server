@@ -1,43 +1,37 @@
-﻿{
+{
   "licenses": [
     {
-      "hashedKey": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+      "hashedKey": "ac79e4bf4912c392aa21eb5ccb2333a167c57cd0a53e37c888997090ba8292df",
       "status": "active",
       "version": "free",
       "expireDate": "2025-08-31"
     },
     {
-      "hashedKey": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+      "hashedKey": "00201fcccf168d363f4df0c5817d91eeeb5c901f9a4da8641f350aa0aebf5744",
       "status": "active",
       "version": "free",
       "expireDate": "2025-08-31"
     },
     {
-      "hashedKey": "3e23e8160039594a33894f6564e1b1348bbd7a0088d42c4acb73eeaed59c009d",
+      "hashedKey": "d650e00a7d1197ff9c274474483d24bd2e4c9775d1665569c28d0d54d6ecaf8f",
       "status": "active",
       "version": "basic",
       "expireDate": "2025-08-31"
     },
     {
-      "hashedKey": "2c26b46b68ffc68ff99b453c1d30413413422d706483bfa0f98a5e886266e7ae",
+      "hashedKey": "0379036c22092dede0eaa171fd780a686e9bfae9725543c619140347e41daacd",
       "status": "active",
       "version": "pro",
       "expireDate": "2025-12-31"
     },
     {
-      "hashedKey": "fcde2b2edba56bf408601fb721fe9b5c338d10ee429ea04fae5511b68fbf8fb9",
+      "hashedKey": "82dc8764269f5ce81ce73e3988eec7ab925f99cd0a86191d58cc682c7668fb56",
       "status": "active",
       "version": "premium",
       "expireDate": "2025-12-31"
     },
     {
-      "hashedKey": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
-      "status": "active",
-      "version": "premium",
-      "expireDate": "2025-12-31"
-    },
-    {
-      "hashedKey": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "hashedKey": "007ddca3c5c64da9b6cdd9ca176a5b5656c56cc73d46f5368e74b67d53158549",
       "status": "active",
       "version": "premium",
       "expireDate": "2025-12-31"
